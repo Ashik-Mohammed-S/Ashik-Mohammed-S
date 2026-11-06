@@ -21,6 +21,15 @@ independent public portfolio projects.
 4. [Healthcare Entity Extraction](https://github.com/Ashik-Mohammed-S/Identifying-Entities-in-Healthcare-Data):
    original train/test corpora, aligned tokenization, CRF and exact span metrics.
 
+## Retail finance and Power BI
+
+**[MarginLens](https://github.com/Ashik-Mohammed-S/Marginlens)** connects retail finance reporting with auditable data checks and a native Power BI report.
+
+- [Public web dashboard](https://marginlens-retail-finance.swoonysnipe19.chatgpt.site/): synthetic retail performance, margin bridge, contract exceptions, forecasts and data trust.
+- [Power BI screenshot](https://github.com/Ashik-Mohammed-S/Marginlens#power-bi-dashboard-preview): pharmacy economics and coverage/reconciliation pages, validated in Desktop. The report uses aggregates derived from 11,960,653 accepted public Medicaid state records; it does not embed all raw rows.
+- Historical source coverage: 2007, 2010, 2018 and Q1–Q2 2024. Suppressed amounts are excluded; reimbursements are not pharmacy profit.
+- The screenshot is publicly viewable. The finished PBIX was delivered locally; Power BI Service publication and scheduled cloud refresh are pending.
+
 ## Analytical foundations
 
 | Project | Decision or method to inspect |
